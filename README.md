@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Pragnan143
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on Startups
 - 📫 How to reach me Phone: 8143267596
 
 <!---
