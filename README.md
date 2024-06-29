@@ -26,7 +26,7 @@
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/pragnan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/pragnan" /></a><a href="https://ko-fi.com/ko-fi.com/pragnanmanam"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/pragnanmanam" /></a></p><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pragnan143&show_icons=true&locale=en&layout=compact" alt="pragnan143" /></p>
+<p><img align="left" height=500px width=1000px src="https://github-readme-stats.vercel.app/api/top-langs?username=pragnan143&show_icons=true&locale=en&layout=compact" alt="pragnan143" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pragnan143&show_icons=true&locale=en" alt="pragnan143" /></p>
 
