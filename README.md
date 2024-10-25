@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pragnan143" alt="pragnan143" /></a> </p>
 
-- 🔭 I’m currently working on **SoftE**
+- 🔭 I’m currently working on **Janara Solutions**
 
 - 💬 Ask me about **React,HTML,CSS,JS,NodeJS,EXPRESS,MONGODB**
 
