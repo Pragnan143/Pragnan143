@@ -23,7 +23,6 @@
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=pragnan143&show_icons=true&locale=en" alt="pragnan143" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pragnan143&" alt="pragnan143" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pragnan143&show_icons=true&locale=en&layout=compact" alt="pragnan143" />
 </p>
 
