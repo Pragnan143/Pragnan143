@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React,HTML,CSS,JS,NodeJS,EXPRESS,MONGODB**
 
-- 📫 How to reach me **pragnanreddy.lpu@gmail.com**
+- 📫 How to reach me **founder@parusoftsolutions.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
